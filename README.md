@@ -1,0 +1,1 @@
+Answers to individual tasks solved in the subject of image processing during bachelors degree. Each subfolder contains a Python script and the images obtained using it.
